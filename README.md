@@ -6,6 +6,8 @@
 
 > Built for the **Remote Control AI** hackathon theme · Autonomous Safety Protocol · 2026
 
+**Repository:** [github.com/hariprasath71811-max/killswitch-ai](https://github.com/hariprasath71811-max/killswitch-ai)
+
 **Live demo:** double-click [`index.html`](index.html) — no server, no install. Or open `file:///.../index.html` in Chrome/Edge.
 
 **Demo video:** [`demo_with_audio.mp4`](demo_with_audio.mp4) (95 s, voice + live UI) · silent capture [`demo.mp4`](demo.mp4) · script [`DEMO_SCRIPT.md`](DEMO_SCRIPT.md)
