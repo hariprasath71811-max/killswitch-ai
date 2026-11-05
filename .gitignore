@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+video-tmp/
+demo-voice.txt
+demo_padded.mp4
+*.webm
+node_modules/
+.DS_Store
+Thumbs.db
